@@ -1,4 +1,5 @@
 {
   "backend": "http://200.71.53.47:2527/",
-  "cdn": "https://detourporcundinamarca.gumlet.io/"
+  "cdn": "https://detourporcundinamarca.gumlet.io/",
+  "front": "https://detourporcundinamarca.realityapp.co/home"
 }
