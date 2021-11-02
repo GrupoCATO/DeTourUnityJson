@@ -1,5 +1,5 @@
 {
-  "backend": "http://200.71.53.47:2527/",
+  "backend": "https://detourpanel.cundinamarca.gov.co/",
   "cdn": "https://detourporcundinamarca.gumlet.io/",
   "front": "https://detourporcundinamarca.realityapp.co/home",
   "media": "https://detour-bucket.s3.amazonaws.com/media/"
