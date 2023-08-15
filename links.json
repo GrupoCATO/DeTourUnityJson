@@ -3,5 +3,5 @@
   "cdn": "https://detourporcundinamarca.gumlet.io/",
   "front": "https://detourporcundinamarca.realityapp.co/home",
   "media": "https://detour-bucket.s3.amazonaws.com/media/",
-  "visor_pdf": "https://storage.googleapis.com/detour_static/visor_pdfs/index.html"
+  "visor_pdf": "https://storage.googleapis.com/detour_static/visor_pdf/index.html"
 }
