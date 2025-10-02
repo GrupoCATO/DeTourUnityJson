@@ -1,6 +1,6 @@
 {
-  "backend": "https://detourpanel.cundinamarca.gov.co/",
-  "cdn": "https://detourporcundinamarca.gumlet.io/",
+  "backend": "http://165.227.192.231:30300/",
+  "cdn": "https://detour-cdn.gumlet.io/",
   "front": "https://detourporcundinamarca.realityapp.co/home",
   "media": "https://detour-bucket.s3.amazonaws.com/media/",
   "visor_pdf": "https://storage.googleapis.com/detour_static/visor_pdf/index.html"
