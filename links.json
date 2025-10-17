@@ -1,5 +1,5 @@
 {
-  "backend": "http://165.227.192.231:30300/",
+  "backend": "https://detourpanel.realityapp.co/",
   "cdn": "https://detour-cdn.gumlet.io/",
   "front": "https://detourporcundinamarca.realityapp.co/home",
   "media": "https://detour-bucket.s3.amazonaws.com/media/",
