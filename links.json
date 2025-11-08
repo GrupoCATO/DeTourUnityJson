@@ -4,7 +4,7 @@
   "front": "https://detourporcundinamarca.realityapp.co/home",
   "media": "https://detour-bucket.s3.amazonaws.com/media/",
   "visor_pdf": "https://storage.googleapis.com/detour_static/visor_pdf/index.html",
-  "show_message": true,
+  "show_message": false,
   "app_android": "https://play.google.com/store/apps/details?id=com.cato.corpodesafio&hl=es_CO",
   "app_ios": "https://apps.apple.com/co/app/corpo-desafio/id6474271843"
 }
